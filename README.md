@@ -10,7 +10,7 @@ There are some helper functions in the base code, to read files into data.tables
 ## Processing Description
 The script performs the following processing, in order to provide the output.
 <ul>
-1. Download the zip file from the web, and unzip it to a target folder.
+<li>1. Download the zip file from the web, and unzip it to a target folder.</li>
 2. Reads the test and training and train subject files.
 3. Reads the test and training files with the labels.
 4. Reads the features files.
