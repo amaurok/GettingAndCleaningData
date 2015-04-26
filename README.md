@@ -19,7 +19,7 @@ The script performs the following processing, in order to provide the output.
 <li>6. Extract the requested variables for mean and std, by doing a grep of the variables names.</li>
 <li>7. Apply the mean function to each vector of values in each subject/activity pair. This is the clean dataset.</li>
 <li>8. Write the end result to a disk.</li>
-<ul>
+</ul>
 
 ## Output
 The result is written to the file tidyDataResult.txt
