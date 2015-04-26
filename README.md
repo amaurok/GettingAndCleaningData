@@ -11,14 +11,14 @@ There are some helper functions in the base code, to read files into data.tables
 The script performs the following processing, in order to provide the output.
 <ul>
 <li>1. Download the zip file from the web, and unzip it to a target folder.</li>
-2. Reads the test and training and train subject files.
-3. Reads the test and training files with the labels.
-4. Reads the features files.
-5. Join the data sets by rows.
-6. Join the data sets by columns.
-6. Extract the requested variables for mean and std, by doing a grep of the variables names.
-7. Apply the mean function to each vector of values in each subject/activity pair. This is the clean dataset.
-8. Write the end result to a disk.
+<li>2. Reads the test and training and train subject files.</li>
+<li>3. Reads the test and training files with the labels.</li>
+<li>4. Reads the features files.</li>
+<li>5. Join the data sets by rows.</li>
+<li>6. Join the data sets by columns.</li>
+<li>6. Extract the requested variables for mean and std, by doing a grep of the variables names.</li>
+<li>7. Apply the mean function to each vector of values in each subject/activity pair. This is the clean dataset.</li>
+<li>8. Write the end result to a disk.</li>
 <ul>
 
 ## Output
