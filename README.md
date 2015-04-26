@@ -1,6 +1,8 @@
 # Getting And Cleaning Data Project
 This repository hosts the R script, and the documentation for the Getting and Cleaning data course's project.
 
+In order to test the script, load the script, and it will perform the operations of downloanding, unzipping and processing all the zip's files.
+
 ##run_analysis.R
 The script is expected to download the zip file from the web, and then perform a set of operations, to provide a tidy data set with the expected output.
 There are some helper functions in the base code, to read files into data.tables.
