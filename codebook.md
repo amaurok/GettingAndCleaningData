@@ -1,5 +1,5 @@
 # CodeBook
-The script is to intended to  be run from your R working directory, in order to run correctly.
+The script is intended to  be run from your R working directory, in order to run correctly.
 The script performs the following operations on the original data source.
 
 <ul>
